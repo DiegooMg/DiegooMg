@@ -2,7 +2,7 @@
   <h1>Hi there, I`m <a href="https://www.linkedin.com/in/diego-mateos-60595922b/">Diego</a> 👋</h1>
 </div>
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Miguel%20Vela%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Diego%20Mateos%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 # Welcome! 👋
 
