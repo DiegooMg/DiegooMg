@@ -1,4 +1,6 @@
-<div align=center>### Hi there, I`m <a href="https://www.linkedin.com/in/diego-mateos-60595922b/">Diego</a> 👋</div>
+<div align=center>
+  <h1>Hi there, I`m <a href="https://www.linkedin.com/in/diego-mateos-60595922b/">Diego</a> 👋</h1>
+</div>
 
 
 
