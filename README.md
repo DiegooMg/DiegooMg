@@ -3,8 +3,7 @@
 </div>
 
 <div align=center>
-  <img src="https://cdn.leonardo.ai/users/cc570501-eb63-475e-b66e-aa2ca07ca276/generations/a78982b8-95b3-4e0d-b91d-          
-  d5af707aecd1/Leonardo_Diffusion_XL_ultra_detailed_ilustration_of_Data_Scien_1.jpg">
+  <img src="https://cdn.leonardo.ai/users/cc570501-eb63-475e-b66e-aa2ca07ca276/generations/a78982b8-95b3-4e0d-b91d-                                                   d5af707aecd1/Leonardo_Diffusion_XL_ultra_detailed_ilustration_of_Data_Scien_1.jpg">
 </div>
 
 
