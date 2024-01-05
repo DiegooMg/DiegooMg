@@ -2,110 +2,50 @@
   <h1>Hi there, I`m <a href="https://www.linkedin.com/in/diego-mateos-60595922b/">Diego</a> 👋</h1>
 </div>
 
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
-				@keyframes rotate {
-					0% {
-						transform: rotate(3deg);
-					}
-					100% {
-						transform: rotate(-3deg);
-					}
-				}
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Miguel%20Vela%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
-				@keyframes gradientBackground {
-					0% {
-						background-position: 0% 50%;
-					}
-					50% {
-						background-position: 100% 50%;
-					}
-					100% {
-						background-position: 0% 50%;
-					}
-				}
+# Welcome! 👋
 
-				@keyframes fadeIn {
-					0% {
-						opacity: 0;
-					}
-					66% {
-						opacity: 0;
-					}
-					100% {
-						opacity: 1;
-					}
-				}
+If you are reading these lines... welcome to my profile!
 
-				.container {
-					font-family:
-						system-ui,
-						-apple-system,
-						'Segoe UI',
-						Roboto,
-						Helvetica,
-						Arial,
-						sans-serif,
-						'Apple Color Emoji',
-						'Segoe UI Emoji';
-					display: flex;
-					flex-direction: column;
-					align-items: center;
-					justify-content: center;
-					margin: 0;
-					width: 100%;
-					height: 400px;
-					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
-					background-size: 600% 400%;
-					animation: gradientBackground 10s ease infinite;
-					border-radius: 10px;
-					color: white;
-					text-align: center;
-				}
+I am a Data Scientist, looking for my next professional challenge.
 
-				h1 {
-					font-size: 50px;
-					line-height: 1.3;
-					letter-spacing: 5px;
-					text-transform: uppercase;
-					text-shadow:
-						0 1px 0 #efefef,
-						0 2px 0 #efefef,
-						0 3px 0 #efefef,
-						0 4px 0 #efefef,
-						0 12px 5px rgba(0, 0, 0, 0.1);
-					animation: rotate ease-in-out 1s infinite alternate;
-				}
+I recently graduated from the Data Science Bootcamp at The Bridge Digital Talent Accelerator, EDEM Business School. I have prior experience in different professional fields such as customer service and insurance sales. I have also worked as a manager at an international diving center and I have been a Ph.D. Candidate in Physical Oceanography.
 
-				p {
-					font-size: 20px;
-					text-shadow: 0 1px 0 #efefef;
-					animation: 5s ease 0s normal forwards 1 fadeIn;
-				}
-			</style>
-			<div class="container">
-				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
-				<p>Click to see the source</p>
-			</div>
-		</div>
-	</foreignObject>
-</svg>
+Below, you will find a summary of my academic background:
+
+## Academic Background
+
+- Data Science Bootcamp, The Bridge Digital Talent Accelerator, EDEM Business School (2023).
+    - Python
+    - SQL, MongoDB, PostgreSQL
+    - PowerBI
+    - Data Analysis
+    - Machine Learning
+    - Deep Learning
+    - AWS
+    - Docker
+    - PySpark
+    
+    [![My Skills](https://skillicons.dev/icons?i=py,vscode,sqlite,mysql,mongodb,postgres,postman,github,tensorflow,aws,docker&perline=11)](https://skillicons.dev)
+  
+- Master in Geological Resources and Geotechnics, Universidad de Oviedo (2010-2012).
+  - Master's Thesis: Seasonal Variation of the Artificial Beach "El Gayo" (Luanco, Asturias).
+    
+- Bachelor in Marine Sciences, Universidad Católica de Valencia San Vicente Mártir (2004-2010).
+  
+- Advanced specific vocational training in diving Level II, Complejo educativo Mas Camarena (2016-2017).
+  
+- Ph.D. Candidate in Physical Oceanography, Universidad Católica de Valencia San Vicente Mártir (2012-2014).
+  - Alcántara-Carrió, J.; Albarracín, S.; Fontán-Bouzas A.; Rey Salgado J.; Montoya, I.; Flor-Blanco G. and Vela, M. (2013) Interaction between the coat and the internal continental platform on timescale. Geo-  Temas 14 ISSN 1576-5172
+  - Paper “Verification of general ROMS models on areas controlled by orography. Continental Shelf of Valencian Gulf and Ibiza Channel (W Mediterranean) on the Second Meeting of Physic Oceanography EOF2012
 
 
+## Contact
 
-<!--
-**DiegooMg/DiegooMg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Thank you for exploring my profile! If you have any questions or comments, please do not hesitate to contact me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- E-mail: miguel.vela.planas@gmail.com
+- LinkedIn: [Perfil de LinkedIn](https://www.linkedin.com/in/miguel-vela/)
+- Portfolio: [Portfolio](https://github.com/Mvepla/Portfolio)
